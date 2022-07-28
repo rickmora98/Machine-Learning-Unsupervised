@@ -17,3 +17,6 @@ To examine the data and code files, their locations are indicated in the tree be
 (Please do not delete, move, rename, or alter!)
 
 #### Sample Code:
+<img src="/Images/Read.jpg">
+<img src="/Images/DimensionReduction.jpg">
+<img src="/Images/KMeans.jpg">
