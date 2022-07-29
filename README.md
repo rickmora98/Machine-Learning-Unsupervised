@@ -1,4 +1,4 @@
-# Cryptocurrency Classifying (Unsupervised Machine Learning Demonstration)
+<h1> Cryptocurrency Classifying <br> (Unsupervised Machine Learning Demonstration) </h1>
 
 #### Overview:
 This project examines the performance of the k-Means unsupervised learning model on a data set containing various metrics on several cryptocurrencies.  
